@@ -31,7 +31,7 @@
     background-color: var(--active-color);
 }
 
-.portfolio-title{
+.portfolio-title {
     font-style: normal;
     font-weight: bold;
     font-size: 18px;
@@ -47,5 +47,10 @@
     line-height: 2;
     letter-spacing: 0.03em;
     color: var(--secondary-color);
+}
+
+.list{
+    list-style: none;
+    text-decoration: none;
 }
 
